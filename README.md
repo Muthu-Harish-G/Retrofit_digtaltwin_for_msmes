@@ -18,6 +18,61 @@ Measure RPM, production cycles, voltage, current, power and energy.
 Monitor sound levels for identifying abnormal operating conditions.
 
 Track machine operating time, idle time and job time.
+🔩 Hardware Components
+
+Component
+
+Purpose
+
+ESP32 WROOM Dev Board × 2
+
+Machine controller and gateway
+
+IR / proximity sensor
+
+Object detection
+
+RPM sensor
+
+Rotational speed measurement
+
+Limit switch
+
+Cycle detection
+
+KY-037 sound sensor
+
+Sound-level monitoring
+
+ACS712 current sensor
+
+Current measurement
+
+Voltage divider
+
+Voltage measurement
+
+P55NF06 MOSFET driver
+
+DC load control
+
+12V DC power supply
+
+External load power
+
+DC motor
+
+Machine demonstration load
+
+Cooling fan
+
+Auxiliary load
+
+Indicator bulb
+
+Machine status indication
+
+
 
 Enable remote machine control through a web dashboard.
 
